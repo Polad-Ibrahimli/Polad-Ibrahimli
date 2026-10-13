@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Polad!
 
-<!--
-**Polad-Ibrahimli/Polad-Ibrahimli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Baku Higher Oil School (BHOS), Azerbaijan.
 
-Here are some ideas to get you started:
+💻 Interested in Software Engineering, Full-Stack Development, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Technologies & Tools**
+- Languages: Python, JavaScript, C#
+- Frontend: HTML, CSS, React, Bootstrap
+- Backend: FastAPI, Node.js
+- Tools: Git, GitHub, VS Code
+
+🤖 Currently exploring Machine Learning, AI Engineering, and building AI-powered applications.
+
+🌱 I enjoy learning how things work under the hood, solving problems, collaborating on projects, and turning ideas into working software.
+
+🚀 Always learning, building, and improving.
