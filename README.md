@@ -5,7 +5,7 @@
 💻 Interested in Software Engineering, Full-Stack Development, and Artificial Intelligence.
 
 🛠️ **Technologies & Tools**
-- Languages: Python, JavaScript, C#
+- Languages: Python, JavaScript, C#, C++
 - Frontend: HTML, CSS, React, Bootstrap
 - Backend: FastAPI, Node.js
 - Tools: Git, GitHub, VS Code
